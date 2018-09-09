@@ -22,7 +22,8 @@ yarn-error.log
 /config
 /database
 /node_modules
-/resources
+/resources/js/components
+/resouces/lang
 /storage
 /tests
 /venodr
